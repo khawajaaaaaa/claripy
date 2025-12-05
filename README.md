@@ -21,8 +21,8 @@ The package is organized as a collection of focused modules:
 
 The implementation mainly relies on `pandas`, `numpy`, and `matplotlib`.
 
-The included `tests/` folder contains small unit tests that exercise the main
-functions of the package. They are written using Python’s built‑in `unittest`
+The included tests_core.py file contains small unit tests that exercise the main
+functions of the package on the dirty_cafe_sales.csv raw data file. They are written using Python’s built‑in `unittest`
 framework so they can be run with:
 
 
